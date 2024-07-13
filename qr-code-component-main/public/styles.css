@@ -1,3 +1,17 @@
+@font-face {
+  font-display: swap;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/outfit-v11-latin-regular.woff2") format("woff2");
+}
+@font-face {
+  font-display: swap;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/outfit-v11-latin-700.woff2") format("woff2");
+}
 * {
   margin: 0;
   box-sizing: border-box;
